@@ -10,6 +10,9 @@ Este repositorio contiene el script de desarrollo correspondiente a la práctica
 
 ## 📊 Esquema de la Base de Datos
 
+<img width="1495" height="1588" alt="alojamientos" src="https://github.com/user-attachments/assets/a699a982-0db6-47e5-add9-7d6b173f8d44" />
+
+
 El diseño relacional está optimizado para la gestión de alquileres vacacionales a través de 6 entidades principales interconectadas de forma lógica y restrictiva:
 
 ### 1. Tabla: `propietarios`
